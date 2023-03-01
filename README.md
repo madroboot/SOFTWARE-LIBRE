@@ -36,6 +36,9 @@ El software libre es un software cuyo código fuente puede ser estudiado, modifi
 ### Licencias para software: 
 
 elige al menos 2 de la FSF y 2 de la Open Source Iniciative.
+
+GPLv3
+
 ### Ejemplos de licencias en el software libre: al menos 2 ejemplos software de cada licencia.
 ###  Licencias libres para documentación: CopyLeft, Creative Commons
 ### Ejemplos de licencias en la documentación: al menos 2 ejemplos de documentación (libros u otros) de cada licencia.
