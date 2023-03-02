@@ -89,9 +89,28 @@ La Licencia Pública General Affero esta basada en la GPL de GNU, pero contiene 
 
 The Apache License is a permissive free software license written by the Apache Software Foundation (ASF). It allows users to use the software for any purpose, to distribute it, to modify it, and to distribute modified versions of the software under the terms of the license, without concern for royalties.
 
+[Machine lerning guide](https://github.com/tensorflow/tensorflow.git)
 
+#### Do What The Fuck You Want To Public License
 
-#### BSD.
+La licencia WTFPL (Do What The Fuck You Want To Public License) es una licencia de software libre extremadamente permisiva. Nacida como mofa de la complejidad y verborrea de las licencias de la Free Software Foundation, la WTFPL es la más permisiva licencia existente de la historia del software
+
+[phanton guide](https://github.com/satwikkansal/wtfpython.git)
+
+ 
+WTFPL
+
+Información
+Autor	Sam Hocevar
+Versión	1.0 y 2.0 
+Fecha	2004
+Compatible con DFSG	Sí
+Aprobado por la FSF	 Sí
+Software libre	 Sí
+Compatible con la GPL	Sí
+Copyleft	No
+Utilizable junto con otras licencias	Sí
+
 
 ### Ejemplos de licencias en el software libre: al menos 2 ejemplos software de cada licencia.
 ###  Licencias libres para documentación: CopyLeft, Creative Commons
