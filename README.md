@@ -24,46 +24,46 @@ El software libre es un software cuyo código fuente puede ser estudiado, modifi
 * Licencia de software de código abierto permisivas: Se puede crear una obra derivada sin que esta tenga obligación de protección alguna.
  
  
-    1. Academic Free License v.1.2.
-    2. Apache Software License v.1.1
-    3. Artistic License v.2.0
-    4. Attribution Assurance license.
-    5. BSD License.
-    6. MIT License.
-    7. University of Illinois/NCSA Open Source License.
-    8. W3C Software Notice and License.
-    9. Zope Public License v.2.0
-    10. Open LDAP License v.2.7
-    11. Perl License.
-    12. Academic Free License v.3.0
-    13. PHP License v.3.0
-    14. VMS License.
+    * Academic Free License v.1.2.
+    * Apache Software License v.1.1
+    *. Artistic License v.2.0
+    * Attribution Assurance license.
+    * BSD License.
+    * MIT License.
+    * University of Illinois/NCSA Open Source License.
+    * W3C Software Notice and License.
+    * Zope Public License v.2.0
+    * Open LDAP License v.2.7
+    * Perl License.
+    * Academic Free License v.3.0
+    * PHP License v.3.0
+    * VMS License.
     
 * Licencia de software de código abierto robustas:
 
    - Licencias de software de código abierto robustas fuertes: Obliga a que las obras derivadas o modificaciones que se realicen al software original se deban licenciar bajo los mismos términos y condiciones de la licencia original. 
     
     
-    1. Common Public License v.1.0.
-    2. GNU General Public License v.2.0.
-    3. GNU General Public License v.3.0.
-    4. Eclipse Public License.
-    5. eCos License v.2.0
-    6. Sleepycat Software Product License.
-    7. Affero License v.1.0
-    8. Affero License v.2.0
-    9. OpenSSL License.
+    * Common Public License v.1.0.
+    * GNU General Public License v.2.0.
+    * GNU General Public License v.3.0.
+    * Eclipse Public License.
+    * eCos License v.2.0
+    * Sleepycat Software Product License.
+    * Affero License v.1.0
+    * Affero License v.2.0
+    * OpenSSL License.
      
      
    - Licencias de software de código abierto robustas débiles: Las obras derivadas que se puedan realizar de él puedan ser licenciadas bajo otros términos y condiciones distintas.
     
     
-    1. GNU Lesser General Public License v.2.1.
-    2. Mozilla Public License
-    3. Open Source License.
-    4. Apple Source License v.2.0
-    5. CDDL.
-    6. EUPL.
+    * GNU Lesser General Public License v.2.1.
+    * Mozilla Public License
+    * Open Source License.
+    * Apple Source License v.2.0
+    * CDDL.
+    * EUPL.
      
 * Licencia de software de código cerrado: Los propietarios establecen los derechos de uso, distribución, redistribución,ventas, copia, modificación, cesión y en general cualquier otra consideración que se estime necesaria. 
  
