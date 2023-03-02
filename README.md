@@ -21,7 +21,8 @@ El software libre es un software cuyo código fuente puede ser estudiado, modifi
  
 * Software de dominio público (sin licencia): Se permite uso, copia, modificación o redistribución con o sin fines de lucro. 
 
-* Licencia de software de código abierto permisivas: Se puede crear una obra derivada sin que esta tenga obligación de protección alguna. 
+* Licencia de software de código abierto permisivas: Se puede crear una obra derivada sin que esta tenga obligación de protección alguna.
+ 
     Academic Free License v.1.2.
     Apache Software License v.1.1
     Artistic License v.2.0
@@ -34,13 +35,14 @@ El software libre es un software cuyo código fuente puede ser estudiado, modifi
     Open LDAP License v.2.7
     Perl License.
     Academic Free License v.3.0
-
     PHP License v.3.0
     VMS License.
+    
 * Licencia de software de código abierto robustas:
 
    - Licencias de software de código abierto robustas fuertes: Obliga a que las obras derivadas o modificaciones que se realicen al software original se deban licenciar bajo los mismos términos y condiciones de la licencia original. 
-       Common Public License v.1.0.
+   
+    Common Public License v.1.0.
     GNU General Public License v.2.0.
     GNU General Public License v.3.0.
     Eclipse Public License.
@@ -49,13 +51,16 @@ El software libre es un software cuyo código fuente puede ser estudiado, modifi
     Affero License v.1.0
     Affero License v.2.0
     OpenSSL License.
+    
    - Licencias de software de código abierto robustas débiles: Las obras derivadas que se puedan realizar de él puedan ser licenciadas bajo otros términos y condiciones distintas.
+   
     GNU Lesser General Public License v.2.1.
     Mozilla Public License
     Open Source License.
     Apple Source License v.2.0
     CDDL.
     EUPL.
+    
 * Licencia de software de código cerrado: Los propietarios establecen los derechos de uso, distribución, redistribución,ventas, copia, modificación, cesión y en general cualquier otra consideración que se estime necesaria. 
  
   ## Licencias libres
