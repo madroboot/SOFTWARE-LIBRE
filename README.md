@@ -23,6 +23,7 @@ El software libre es un software cuyo código fuente puede ser estudiado, modifi
 
 * Licencia de software de código abierto permisivas: Se puede crear una obra derivada sin que esta tenga obligación de protección alguna.
  
+ 
     1. Academic Free License v.1.2.
     2. Apache Software License v.1.1
     3. Artistic License v.2.0
@@ -42,6 +43,7 @@ El software libre es un software cuyo código fuente puede ser estudiado, modifi
 
    - Licencias de software de código abierto robustas fuertes: Obliga a que las obras derivadas o modificaciones que se realicen al software original se deban licenciar bajo los mismos términos y condiciones de la licencia original. 
     
+    
     1. Common Public License v.1.0.
     2. GNU General Public License v.2.0.
     3. GNU General Public License v.3.0.
@@ -52,7 +54,9 @@ El software libre es un software cuyo código fuente puede ser estudiado, modifi
     8. Affero License v.2.0
     9. OpenSSL License.
      
+     
    - Licencias de software de código abierto robustas débiles: Las obras derivadas que se puedan realizar de él puedan ser licenciadas bajo otros términos y condiciones distintas.
+    
     
     1. GNU Lesser General Public License v.2.1.
     2. Mozilla Public License
