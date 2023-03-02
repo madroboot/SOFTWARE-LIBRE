@@ -41,7 +41,7 @@ El software libre es un software cuyo código fuente puede ser estudiado, modifi
 * Licencia de software de código abierto robustas:
 
    - Licencias de software de código abierto robustas fuertes: Obliga a que las obras derivadas o modificaciones que se realicen al software original se deban licenciar bajo los mismos términos y condiciones de la licencia original. 
-   
+    
     1. Common Public License v.1.0.
     2. GNU General Public License v.2.0.
     3. GNU General Public License v.3.0.
@@ -51,16 +51,16 @@ El software libre es un software cuyo código fuente puede ser estudiado, modifi
     7. Affero License v.1.0
     8. Affero License v.2.0
     9. OpenSSL License.
-    
+     
    - Licencias de software de código abierto robustas débiles: Las obras derivadas que se puedan realizar de él puedan ser licenciadas bajo otros términos y condiciones distintas.
-   
+    
     1. GNU Lesser General Public License v.2.1.
     2. Mozilla Public License
     3. Open Source License.
     4. Apple Source License v.2.0
     5. CDDL.
     6. EUPL.
-    
+     
 * Licencia de software de código cerrado: Los propietarios establecen los derechos de uso, distribución, redistribución,ventas, copia, modificación, cesión y en general cualquier otra consideración que se estime necesaria. 
  
   ## Licencias libres
