@@ -69,12 +69,29 @@ El software libre es un software cuyo código fuente puede ser estudiado, modifi
  
   ## Licencias libres
        
-### Licencias para software: 
+### Comparador de licencias de software libre.
 
-elige al menos 2 de la FSF y 2 de la Open Source Iniciative.
+2 de la Open Source Iniciative.
 
-GPLv3 
-GNU LGPL
+#### GPLv3: 
+
+La Licencia Pública General de GNU, llamada comúnmente GPL de GNU, se usa para la mayoría de los programas de GNU y para más de la mitad de los paquetes de software libre. La última es la versión 3. 
+
+[League sandbox](https://github.com/LeagueSandbox/GameServer.git)
+
+#### GNU LGPL
+
+La Licencia Pública General Affero esta basada en la GPL de GNU, pero contiene una cláusula adicional que permite a los usuarios interactuar con el programa licenciado a través de una red para recibir el código fuente de ese programa.
+
+[chinese games](https://github.com/rwv/chinese-dos-games.git)
+
+#### Apache License.
+
+The Apache License is a permissive free software license written by the Apache Software Foundation (ASF). It allows users to use the software for any purpose, to distribute it, to modify it, and to distribute modified versions of the software under the terms of the license, without concern for royalties.
+
+
+
+#### BSD.
 
 ### Ejemplos de licencias en el software libre: al menos 2 ejemplos software de cada licencia.
 ###  Licencias libres para documentación: CopyLeft, Creative Commons
