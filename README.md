@@ -104,14 +104,14 @@ La Licencia de documentación libre de GNU o GFDL (GNU Free Documentation Licens
 Esta documentación agrupa una serie de directrices de software libre de Debian, algunos de estos requisitos que agrupan la documentación libre son:
 
     -libre redistribución
-   - inclusión del código fuente
+    -inclusión del código fuente
     -permitir que las modificaciones y trabajos derivados sean hechos bajo la misma licencia
     -integridad del código fuente del autor, se debe permitir cuando menos la distribución de modificaciones por medio de parches
-   - sin discriminación de personas o grupos
+    -sin discriminación de personas o grupos
     -sin discriminación de áreas de iniciativa, como el uso comercial
     -distribución de la licencia, se necesita aplicar a todo al que se redistribuya el programa
     -la licencia no debe ser específica a Debian, básicamente reiteración del punto anterior
-   - la licencia no debe contaminar otro software
+    -la licencia no debe contaminar otro software
     
 ### Ejemplos de licencias en el software libre: al menos 2 ejemplos software de cada licencia.
 ###  Licencias libres para documentación: CopyLeft, Creative Commons
