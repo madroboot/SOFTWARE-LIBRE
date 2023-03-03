@@ -113,6 +113,29 @@ Esta documentación agrupa una serie de directrices de software libre de Debian,
     -la licencia no debe ser específica a Debian, básicamente reiteración del punto anterior
     -la licencia no debe contaminar otro software
     
+    [como montar QT5](https://github.com/CipSoft-Tibia/Qt5.git)
+    
+    #### GFDL
+    
+    El objetivo fundamental del conocimiento es su difusión. El conocimiento, su distribución, su mejora y modificación deben ser libres.
+Al igual que sucede en el mundo del software, hemos de buscar formas de garantizar las libertades asociadas a nuestro trabajo y su inviolabilidad futura. Permite :
+
+    -Copiar el documento
+    -Modificación del documento (con ciertas excepciones, comentadas más adelante)
+    -Redistribución del documento (comercial o gratuita)
+
+La carencia de copyright sería una solución parcial debido a que posibilataría que la documentación fuera incluida, completa o en parte, dentro de trabajos que no ofrecieran al lector la misma libertad que se otorga originalmente. Por eso, buscamos métodos para garantizar que la libertad esté asociada al documento. Uno de estos métodos es la licencia GFDL (GNU Free Documentation License). 
+
+[como configurar tu teclado](https://github.com/Romanio0089/WHID-Cactus-Flash-Guide.git)
+
+### Ventajas del software libre para la sociedad
+
+Desde el punto de vista de la sociedad, el software provee flexibilidad, inteligencia y seguridad a todos los sistemas complejos y equipos que soportan y controlan las diferentes infraestructuras claves de nuestra sociedad, los software libres nos hacen participes del desarrollo y funcionamiento de nuestra comunidad dandos la libertad de usar el programa, con cualquier propósito. Libertad de acceso al código fuente del programa, libertad de copiado y distribución, libertad de modificar y mejorar el programa. Gracias a estos programas podemos hacer que cualquier persona con acceso a internet pueda crear su propio contenido sin el amparo de una gran multinacional.
+
+### SISTEMAS OPERATIVOS
+
+#### historia y desarrollo 
+
 ### Ejemplos de licencias en el software libre: al menos 2 ejemplos software de cada licencia.
 ###  Licencias libres para documentación: CopyLeft, Creative Commons
 ### Ejemplos de licencias en la documentación: al menos 2 ejemplos de documentación (libros u otros) de cada licencia.
