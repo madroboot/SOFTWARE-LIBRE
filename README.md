@@ -69,9 +69,7 @@ El software libre es un software cuyo código fuente puede ser estudiado, modifi
  
   ## Licencias libres
        
-### Comparador de licencias de software libre.
-
-2 de la Open Source Iniciative.
+### Análisis de licencias de software libre.
 
 #### GPLv3: 
 
@@ -97,26 +95,28 @@ La licencia WTFPL (Do What The Fuck You Want To Public License) es una licencia 
 
 [phanton guide](https://github.com/satwikkansal/wtfpython.git)
 
- 
-WTFPL
+ ### Análisis de licencias de documentación libre.
 
-Información
-Autor	Sam Hocevar
-Versión	1.0 y 2.0 
-Fecha	2004
-Compatible con DFSG	Sí
-Aprobado por la FSF	 Sí
-Software libre	 Sí
-Compatible con la GPL	Sí
-Copyleft	No
-Utilizable junto con otras licencias	Sí
+La Licencia de documentación libre de GNU o GFDL (GNU Free Documentation License) es una licencia copyleft para contenido libre, diseñada por la Fundación para el Software Libre (FSF) para el proyecto GNU.
 
+#### Documentación Libre de GNU (FDL)
 
+Esta documentación agrupa una serie de directrices de software libre de Debian, algunos de estos requisitos que agrupan la documentación libre son:
+
+    -libre redistribución
+   - inclusión del código fuente
+    -permitir que las modificaciones y trabajos derivados sean hechos bajo la misma licencia
+    -integridad del código fuente del autor, se debe permitir cuando menos la distribución de modificaciones por medio de parches
+   - sin discriminación de personas o grupos
+    -sin discriminación de áreas de iniciativa, como el uso comercial
+    -distribución de la licencia, se necesita aplicar a todo al que se redistribuya el programa
+    -la licencia no debe ser específica a Debian, básicamente reiteración del punto anterior
+   - la licencia no debe contaminar otro software
+    
 ### Ejemplos de licencias en el software libre: al menos 2 ejemplos software de cada licencia.
 ###  Licencias libres para documentación: CopyLeft, Creative Commons
 ### Ejemplos de licencias en la documentación: al menos 2 ejemplos de documentación (libros u otros) de cada licencia.
 ## Ventajas del software libre para la sociedad
-
 ## REFERENCIAS
 
 "licencia de software" https://es.wikipedia.org/wiki/Licencia_de_software_libre (1 de marzo 2022)
