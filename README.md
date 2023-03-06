@@ -103,15 +103,15 @@ La Licencia de documentación libre de GNU o GFDL (GNU Free Documentation Licens
 
 Esta documentación agrupa una serie de directrices de software libre de Debian, algunos de estos requisitos que agrupan la documentación libre son:
 
-    -libre redistribución
-    -inclusión del código fuente
-    -permitir que las modificaciones y trabajos derivados sean hechos bajo la misma licencia
-    -integridad del código fuente del autor, se debe permitir cuando menos la distribución de modificaciones por medio de parches
-    -sin discriminación de personas o grupos
-    -sin discriminación de áreas de iniciativa, como el uso comercial
-    -distribución de la licencia, se necesita aplicar a todo al que se redistribuya el programa
-    -la licencia no debe ser específica a Debian, básicamente reiteración del punto anterior
-    -la licencia no debe contaminar otro software
+   -libre redistribución
+   -inclusión del código fuente
+   -permitir que las modificaciones y trabajos derivados sean hechos bajo la misma licencia
+   -integridad del código fuente del autor, se debe permitir cuando menos la distribución de modificaciones por medio de parches
+   -sin discriminación de personas o grupos
+   -sin discriminación de áreas de iniciativa, como el uso comercial
+   -distribución de la licencia, se necesita aplicar a todo al que se redistribuya el programa
+   -la licencia no debe ser específica a Debian, básicamente reiteración del punto anterior
+   -la licencia no debe contaminar otro software
     
     [como montar QT5] (https://github.com/CipSoft-Tibia/Qt5.git)
     
