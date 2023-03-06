@@ -95,11 +95,11 @@ La licencia WTFPL (Do What The Fuck You Want To Public License) es una licencia 
 
 [phanton guide](https://github.com/satwikkansal/wtfpython.git)
 
-### Análisis de licencias de documentación libre.
+## Análisis de licencias de documentación libre.
 
 La Licencia de documentación libre de GNU o GFDL (GNU Free Documentation License) es una licencia copyleft para contenido libre, diseñada por la Fundación para el Software Libre (FSF) para el proyecto GNU.
 
-#### Documentación Libre de GNU (FDL)
+### Documentación Libre de GNU (FDL)
 
 Esta documentación agrupa una serie de directrices de software libre de Debian, algunos de estos requisitos que agrupan la documentación libre son:
 
@@ -113,9 +113,9 @@ Esta documentación agrupa una serie de directrices de software libre de Debian,
     -la licencia no debe ser específica a Debian, básicamente reiteración del punto anterior
     -la licencia no debe contaminar otro software
     
-    [como montar QT5](https://github.com/CipSoft-Tibia/Qt5.git)
+    [como montar QT5] (https://github.com/CipSoft-Tibia/Qt5.git)
     
-   #### GFDL
+   ### GFDL
     
     El objetivo fundamental del conocimiento es su difusión. El conocimiento, su distribución, su mejora y modificación deben ser libres.
 Al igual que sucede en el mundo del software, hemos de buscar formas de garantizar las libertades asociadas a nuestro trabajo y su inviolabilidad futura. Permite :
@@ -134,7 +134,11 @@ Desde el punto de vista de la sociedad, el software provee flexibilidad, intelig
 
 ### SISTEMAS OPERATIVOS
 
+Los sistemas operativos son los programas encargados de administrar y gestionar de manera eficiente todos los recursos de un ordenador y otros dispositivos. También se les conoce como software de sistema, y su función comienza nada más encender el dispositivo en el que están instalados.
+
 #### historia y desarrollo 
+
+
 
 ### Ejemplos de licencias en el software libre: al menos 2 ejemplos software de cada licencia.
 ###  Licencias libres para documentación: CopyLeft, Creative Commons
