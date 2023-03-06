@@ -115,7 +115,7 @@ Esta documentación agrupa una serie de directrices de software libre de Debian,
     
     [como montar QT5](https://github.com/CipSoft-Tibia/Qt5.git)
     
-    #### GFDL
+   #### GFDL
     
     El objetivo fundamental del conocimiento es su difusión. El conocimiento, su distribución, su mejora y modificación deben ser libres.
 Al igual que sucede en el mundo del software, hemos de buscar formas de garantizar las libertades asociadas a nuestro trabajo y su inviolabilidad futura. Permite :
