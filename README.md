@@ -139,21 +139,14 @@ Los sistemas operativos son los programas encargados de administrar y gestionar 
 #### historia y desarrollo 
 
 
-La informática tal y como se le conoce hoy día, surgió a raíz de la II Guerra Mundial, en la década de los 40. En esos años no existía siquiera el concepto de "Sistema Operativo" y los programadores interactuaban directamente con el hardware de las computadoras trabajando en lenguaje máquina (esto es, en binario, programando únicamente con 0s y 1s).
+La evolución de los sistemas operativos ha sido impresionante desde su creación en los años 50. A medida que la tecnología ha avanzado, los sistemas operativos han tenido que adaptarse y evolucionar para satisfacer las necesidades de los usuarios. El surgimiento de la informática personal en los años 70 y 80, cambió completamente la forma en que se utilizaban los sistemas operativos y esto llevó a la creación de interfaces de usuario más amigables en los años 80.
 
-El concepto de Sistema Operativo surge en la década de los 50. El primer Sistema Operativo de la historia fue creado en 1956 para un ordenador IBM 704, y básicamente lo único que hacía era comenzar la ejecución de un programa cuando el anterior terminaba.
+El lanzamiento de Linux en los años 90 fue un gran hito en la historia de los sistemas operativos, y hoy en día sigue siendo uno de los sistemas operativos más populares en el mundo de la tecnología, utilizado tanto en servidores como en dispositivos personales. Además, la creación de sistemas operativos libres y de código abierto ha permitido a los usuarios tener más control y personalización sobre sus sistemas operativos.
 
-En los años 60 se produce una revolución en el campo de los Sistemas Operativos. Aparecen conceptos como sistema multitarea, sistema multiusuario, sistema multiprocesadores y sistema en tiempo real.
-
-Es en esta década cuando aparece UNIX, la base de la gran mayoría de los Sistemas Operativos que existen hoy en día.
-En los años 70 se produce un boom en cuestión de ordenadores personales, acercando estos al público general de manera impensable hasta entonces. Esto hace que se multiplique el desarrollo, creándose el lenguaje de programación C (diseñado específicamente para reescribir por completo el código UNIX).
-
-Como consecuencia de este crecimiento exponencial de usuarios, la gran mayoría de ellos sin ningún conocimiento sobre lenguajes de bajo o alto nivel, hizo que en los años 80, la prioridad a la hora de diseñar un sistema operativo fuese la facilidad de uso, surgiendo así las primeras interfaces de usuario.
-
-En los 80 nacieron sistemas como MacOS, MS-DOS, Windows.
-En la década de los 90 hace su aparición Linux, publicándose la primera versión del núcleo en septiembre de 1991, que posteriormente se uniría al proyecto GNU, un sistema operativo completamente libre, similar a UNIX, al que le faltaba para funcionar un núcleo funcional. Hoy en día la mayoría de la gente conoce por Linux al Sistema Operativo que realmente se llama GNU/Linux
+En general, la evolución de los sistemas operativos ha sido una historia de adaptación y mejora continua, y es probable que esta tendencia continúe a medida que la tecnología siga avanzando.
 
 ### Ejemplos de licencias en el software libre: al menos 2 ejemplos software de cada licencia.
+
 ###  Licencias libres para documentación: CopyLeft, Creative Commons
 ### Ejemplos de licencias en la documentación: al menos 2 ejemplos de documentación (libros u otros) de cada licencia.
 ## Ventajas del software libre para la sociedad
