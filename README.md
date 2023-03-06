@@ -95,7 +95,7 @@ La licencia WTFPL (Do What The Fuck You Want To Public License) es una licencia 
 
 [phanton guide](https://github.com/satwikkansal/wtfpython.git)
 
- ### Análisis de licencias de documentación libre.
+### Análisis de licencias de documentación libre.
 
 La Licencia de documentación libre de GNU o GFDL (GNU Free Documentation License) es una licencia copyleft para contenido libre, diseñada por la Fundación para el Software Libre (FSF) para el proyecto GNU.
 
