@@ -71,25 +71,25 @@ El software libre es un software cuyo código fuente puede ser estudiado, modifi
        
 ### Análisis de licencias de software libre.
 
-#### GPLv3: 
+   #### GPLv3: 
 
 La Licencia Pública General de GNU, llamada comúnmente GPL de GNU, se usa para la mayoría de los programas de GNU y para más de la mitad de los paquetes de software libre. La última es la versión 3. 
 
 [League sandbox](https://github.com/LeagueSandbox/GameServer.git)
 
-#### GNU LGPL
-
+   #### GNU LGPL
+   
 La Licencia Pública General Affero esta basada en la GPL de GNU, pero contiene una cláusula adicional que permite a los usuarios interactuar con el programa licenciado a través de una red para recibir el código fuente de ese programa.
 
 [chinese games](https://github.com/rwv/chinese-dos-games.git)
 
-#### Apache License.
+   #### Apache License.
 
 The Apache License is a permissive free software license written by the Apache Software Foundation (ASF). It allows users to use the software for any purpose, to distribute it, to modify it, and to distribute modified versions of the software under the terms of the license, without concern for royalties.
 
 [Machine lerning guide](https://github.com/tensorflow/tensorflow.git)
 
-#### Do What The Fuck You Want To Public License
+   #### Do What The Fuck You Want To Public License
 
 La licencia WTFPL (Do What The Fuck You Want To Public License) es una licencia de software libre extremadamente permisiva. Nacida como mofa de la complejidad y verborrea de las licencias de la Free Software Foundation, la WTFPL es la más permisiva licencia existente de la historia del software
 
